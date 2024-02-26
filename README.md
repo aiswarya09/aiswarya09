@@ -1,8 +1,8 @@
--  My repository is about my everyday journey with data science.
+-  My repository is about my everyday journey with data science and analytics.
 - 👋 Hi, I’m @aiswarya09
-- 👀 I’m interested in Data science and python programming.
-- 🌱 I’m currently learning Data Science (Machine Learning).
-- 💞️ I’m looking to collaborate on beginner level machine learning projects.
+- 👀 I’m interested in Data science and data analytics.
+- 🌱 I’m currently learning data analytics.
+- 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me @_ice_warya (That's my instagram handle.)
 
 <!---
